@@ -1,6 +1,6 @@
 # Python-Games
 
-## 01. Guessing Game Challenge
+### 01. Guessing Game Challenge
 
 ### Program that picks a random integer from 1 to 100, and has players guess the number.
 
@@ -20,3 +20,11 @@
  ##### Very funny game old school
  ##### The place count from 0 to 2:
  
+### 03. Tic Tac Toe game
+
+#### Here are the requirements:
+
+###### 2 players should be able to play the game (both sitting at the same computer)
+###### The board should be printed out every time a player makes a move
+###### You should be able to accept input of the player position and then place a symbol on the board
+###### Feel free to use Google to help you figure anything out (but don't just Google "Tic Tac Toe in Python" otherwise you won't learn anything!) Keep in mind that this project can take anywhere between several hours to several days.
