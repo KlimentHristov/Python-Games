@@ -21,7 +21,7 @@
  ##### The place count from 0 to 2:
  
  
-## 03. Tic Tac Toe game
+## 03. Tic Tac Toc game
 
 #### Here are the requirements:
 
