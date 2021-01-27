@@ -16,4 +16,7 @@
 
 ## 02. Shuffle Balls 
  #### Rules:
- ###### Try to know on wich place where is the ball...
+ ##### Try to know where is the ball...
+ ##### Very funny game old school
+ ##### The place count from 0 to 2:
+ 
